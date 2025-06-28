@@ -19,8 +19,4 @@ This app allows users to search for any location and view real-time weather deta
 - Weather API (e.g., OpenWeatherMap or similar)
 - CSS for styling
 
-## 📦 Installation
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Ashu30-bit/Weather-App.git
